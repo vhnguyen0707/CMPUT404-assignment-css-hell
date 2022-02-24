@@ -23,8 +23,8 @@ Code is licensed under the Apache 2.0 license.
 
 Nguyen Vu
 =================
-# PART 1
+## Part 1
 
-For part 1, since there were already embedded CSS in all of the project gutenberg HTML files, I had to comment them out 
+For part 1, since there were already embedded CSS in all of the project gutenberg HTML files, I had to comment them out.
 
 
