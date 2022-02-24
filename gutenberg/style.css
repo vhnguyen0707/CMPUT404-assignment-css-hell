@@ -1,0 +1,52 @@
+body {
+    background-image: url('background.jpg');
+}
+
+html {
+    font-family: 'Lucida Console', Verdana, sans-serif;
+    line-height: 1.2;
+    font-size: 120%;
+}
+
+body {
+    text-align: center;
+    margin-left: 20%;
+    margin-right: 20%
+}
+p {
+    text-align: justify;
+    margin-left: 1em;
+    margin-right: 1em;
+    text-indent:5px;
+}
+
+h1,h2,h3,h4,h5,h6 {
+    text-align: center;
+    margin-left: 10%;
+    margin-right:10%;
+}
+h1 {
+    font-size: 60px;  
+    font-weight: bolder;
+}
+
+h2 {
+    font-size: 40px;
+    color: #0000cd; 
+}
+
+.fig {
+    width: 100% !important;
+}
+
+img {
+    display: block;
+    margin-left: auto !important;
+    margin-right: auto !important;
+}
+
+
+.caption{
+    font-family: 'Times New Roman', Times, serif;
+    color: #0000cd; 
+}

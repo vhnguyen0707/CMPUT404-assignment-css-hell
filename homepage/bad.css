@@ -1,0 +1,43 @@
+html {
+    font-family: "Comic Sans", cursive;
+}
+
+.header {
+    background-color: aqua;
+    text-align: center;
+    font-size: 120%;
+    
+}
+
+.profession {
+    color:blue;
+    margin-bottom: 0cm;
+}
+
+.nav-block {
+    background-color:rgb(77, 72, 72);
+    text-align: center;
+    word-spacing: 1em;
+    
+}
+.main-body{
+    background-color: greenyellow;
+    margin-top: 0cm;
+}
+.main{
+    text-align: justify;
+    margin-left: 300px;
+    margin-right: 300px;
+    
+}
+.about h1{
+    text-align: center;
+    margin-top: 0cm;
+}
+
+img {
+    width: 200px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
